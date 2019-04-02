@@ -1,0 +1,9 @@
+.sfdx
+.sonarlint
+.vim-fore.com
+.vscode
+branch1
+config
+manifest
+sfdx-project.json
+.forceignore
